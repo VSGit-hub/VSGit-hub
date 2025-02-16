@@ -4,14 +4,17 @@
 📘 B.E in Electronics and Telecommunication from Vidyalankar Institute of Technoloyg, Mumbai  
 💻 ML/DL Engineer | AI Engineer | Data Analyst | Python Developer | Software Developer  
 ⭐ Passionate about leveraging data to drive insights and create impactful solutions  
+<br>
   
 ## 📂 About Me
 I am a data enthusiast with a strong background in mathematics, programming, and computer science. I specialize in transforming raw data into actionable insights and focus on building innovative and practical solutions. With expertise in data engineering and software development, I am passionate about creating useful products that drive real-world impact.  
+<br>
 
 ## 🚧 What I'm up to  
 - Working on building an Anomlay Detection System for Smart Grid for my M.Tech Dissertation.
 - Exploring recent development in AI agents and ethics related issue. 
 - Continously learning new technolgy and expanding my tech stack.  
+<br>
 
 ## 🗄 My Tech Stack
 <div>
@@ -36,8 +39,9 @@ I am a data enthusiast with a strong background in mathematics, programming, and
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 </div>  
+<br>
 
 ## 🤝Lets Connect
-Interested in developing a data driven solution or collaborating for an exiting projects? Feel free to connect.
-📧 **Email:** [vofficial247@gmail.com](vofficial247@gmail.com)  
+Interested in developing a data driven solution or collaborating for an exiting projects? Feel free to connect.  
+📫: **Email:** [vofficial247@gmail.com](vofficial247@gmail.com)  
 🔗 **Linkedin:** [vaibhav-shinde-685091141](https://www.linkedin.com/in/vaibhav-shinde-685091141/)  
