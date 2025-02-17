@@ -10,7 +10,7 @@
 I am a data enthusiast with a strong background in mathematics, programming, and computer science. I specialize in transforming raw data into actionable insights and focus on building innovative and practical solutions. With expertise in data engineering and software development, I am passionate about creating useful products that drive real-world impact.  
 <br>
 
-## 🚧 What I'm up to  
+## 🏗️ What I'm up to  
 - Working on building an Anomlay Detection System for Smart Grid for my M.Tech Dissertation.
 - Exploring recent development in AI agents and ethics related issue. 
 - Continously learning new technolgy and expanding my tech stack.  
